@@ -1,0 +1,26 @@
+body {
+    background-color: black;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    display: grid;
+    place-items: center;
+}
+.main{
+    border: 5px double #dae0da;
+    padding: 20px;
+    margin: 20px 0 20px 0;;
+    background-color: hsl(253, 45%, 72%);
+    border-radius: 10px;
+    width:10vw;
+    height: 50vh;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    display: grid;
+    place-items: center;
+}
+
+.circle{
+    border: 2px solid white;
+    border-radius: 50%;
+    height: 100px;
+}

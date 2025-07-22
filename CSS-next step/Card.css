@@ -1,0 +1,35 @@
+/* .card{
+    width:200px;
+    height:200px;
+    border:2px solid black;
+    display: inline;
+}
+
+img{
+    width:100%
+} */
+
+.card{
+    display:inline-block;
+    border:2px solid black;
+    margin:10px;
+    margin-top:20px;
+    border-radius: 20px;
+    box-shadow:2px 4px 8px black ;
+    transition-duration: 2s;
+
+}
+
+img{
+    border-radius: 20px;
+    /* width:100%; */
+}
+
+.desc{
+    padding: 0 2px 0 2px;
+}
+
+.card:hover{
+    box-shadow:2px 4px 36px black ;
+}
+

@@ -1,0 +1,42 @@
+#outer{
+    background-color: orange;
+    width:100px;
+    height:100px;
+    border-radius: 50%;
+}
+
+#eye1{
+    background-color: black;
+    width:12px;
+    height:12px;
+    border-radius: 50%;
+    position: relative;
+    top:25px;
+    left:20px;
+
+}
+
+#eye2{
+    background-color: black;
+    width:12px;
+    height:12px;
+    border-radius: 50%;
+    display: inline-block;
+    position: relative;
+    top:10px;
+    left:63px;
+
+
+}
+
+#mouth{
+    background-color: maroon;
+    width:50px;
+    height:16px;
+    border-bottom-left-radius: 30%;
+    border-bottom-right-radius: 30%;
+    position: relative;
+    top:30px;
+    left:25px;
+   
+}

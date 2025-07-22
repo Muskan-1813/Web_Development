@@ -1,0 +1,28 @@
+ /* h1{
+            color: rgb(82, 13, 152);
+            background-color:rgb(247, 244, 244);
+        }
+
+p{
+    color: rgb(43, 2, 43);
+    background-color: bisque;
+}
+
+button{
+    color: peru;
+    background-color: azure;
+} */
+
+h2{
+    color: orange;
+}
+
+button{
+    color:white;
+    background-color:Blue ;
+}
+
+p{
+    color:white;
+    background-color: black;
+}
